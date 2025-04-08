@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Resository.
 <br>
-Author - Ranjan Kumar Behera.
+Author - Ranjan Kumar Behera (Ripu).
